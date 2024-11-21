@@ -1,0 +1,98 @@
+.parallax1{
+    background-image: url("maltodextrin-adalah-2.jpg");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+}
+
+.paragraph1{
+    font-family: "Poppins", sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px 90px 10px 90px;
+    text-align: justifys;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax2{
+    background-image: url(manfaat-maltodextrin-dan-pengaruhnya-terhadap-kesehatan.jpg);
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.Paragraph2{
+    font-family: "Poppins", sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px 30px 10px 30px;
+    text-align: justifys;
+}
+
+.Parallax3{
+    background-image: url(istockphoto-870981446-612x612.jpg);
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.Paragraph3{
+    font-family: "Poppins", sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px 30px 10px 30px;
+    text-align: justifys;
+}
+
+.Parallax4{
+    background-image: url(istockphoto-870981488-1024x1024.webp);
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.Paragraph4{
+    font-family: "Poppins", sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px 30px 10px 30px;
+    text-align: justifys;
+}
+
+.Parallax5{
+    background-image: url(istockphoto-870981548-1024x1024.jpg);
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.Paragraph5{
+    font-family: "Poppins", sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px 30px 10px 30px;
+    text-align: justifys;
+}
+
+.parallax-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    width: 100%;
+    color: wheat;
+    font-size: 26px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+
+
+
+
+
+
